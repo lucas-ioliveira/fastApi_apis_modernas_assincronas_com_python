@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d220b090-4fc2-485e-a84a-9ecbcaee882e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao03/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao03/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao03/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao03_p2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao03_p2/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao03_p2/routes/curso_router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao03_p2/routes/usuario_router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/api/v1/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/api/v1/endpoints/curso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/core/configs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/core/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/core/deps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/criar_tabelas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/models/__all_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/models/curso_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/requirementes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao04/schemas/curso_schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/api/v1/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/api/v1/endpoints/curso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/core/configs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/core/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/core/deps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/core/geracao_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/criar_tabelas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/models/__all_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/models/curso_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao05/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/api/v1/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/api/v1/endpoints/artigo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/api/v1/endpoints/usuario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/core/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/core/configs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/core/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/core/deps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/core/security.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/criar_tabelas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/models/__all_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/models/artigo_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/models/usuario_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/schemas/artigo_schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao06/schemas/usuario_schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/curso_fastApi_apis_modernas_assincronas_com_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso_fastApi_apis_modernas_assincronas_com_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M6G65a3pFD8CmN19HGuJ9no2Xf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Temp/ws-python/curso_fastApi_apis_modernas_assincronas_com_python"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.main (3)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_fastApi_apis_modernas_assincronas_com_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao03/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_fastApi_apis_modernas_assincronas_com_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao03_p2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao03_p2/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_fastApi_apis_modernas_assincronas_com_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao04/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_fastApi_apis_modernas_assincronas_com_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao02/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d220b090-4fc2-485e-a84a-9ecbcaee882e" name="Changes" comment="" />
+      <created>1677080443248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677080443248</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
