@@ -12,6 +12,10 @@ nos projetos separadamentes.
 - O banco de dados é de sua escolha, mas nesse projeto utilizei o PostgreSQL e a lib sqlalchemy
 - Instalação dos requeriments.txt disponibilizados
 
+###  Execução
+
+Basta entrar na pasta do diretório no terminão e rodar pythn main.py
+
 ### Alguns Exemplos:
 
 #### Exemplo da seção 02
