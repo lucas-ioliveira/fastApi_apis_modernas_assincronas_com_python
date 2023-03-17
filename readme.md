@@ -14,7 +14,7 @@ nos projetos separadamentes.
 
 ###  Execução
 
-Basta entrar na pasta do diretório no terminão e rodar pythn main.py
+Basta entrar na pasta do diretório no terminal e rodar pythn main.py
 
 ### Alguns Exemplos:
 
